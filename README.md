@@ -1,6 +1,6 @@
 
 <p align="center">
-<img width="2000" height="400" alt="github_banner" src="https://github.com/user-attachments/assets/b4272c9b-34a5-46be-94db-3ee7edf39186" />
+<img width="2000" height="400" alt="github_banner" src="https://github.com/user-attachments/assets/9f638176-6688-4879-a54e-ae45688f2dba" />
 </p>
 
 - :wrench: I'm currently building a new cutting-edge game engine for a third-person multiplayer game. I've built systems for 3D geometry, physics, rendering and player movement, all while rigorously optimizing my code to support a large dynamic world.
