@@ -11,4 +11,4 @@
 - :video_game: My favorite games are *Elden Ring*, *Minecraft*, *Don't Starve*, *Civ VI*, *Cyberpunk 2077* and *CrossCode*. Currently playing *Wildermyth*.
 - :books: My favorite book is *Flow* by Mihaly Csikzentmihalyi. Currently reading *Creativity* by the same author.
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jinghaoyao/).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jinghaoyao/) or through my [email](mailto:jing_hao_yao@outlook.com).
